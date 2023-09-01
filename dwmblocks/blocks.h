@@ -4,6 +4,7 @@ static const Block blocks[] = {
 	{"", 		"bar_time",		2,			100},
 	{"", 		"bar_volume",		0,			10},
 	{"", 		"bar_ram",		5,			1},	
+	{"",		"bar_wifi",		5,			0},
 	{"", 		"bar_battery",		5,			0},
 };
 
